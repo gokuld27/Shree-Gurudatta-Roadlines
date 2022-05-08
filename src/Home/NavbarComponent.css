@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.elements
+{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.nav-link
+{
+    glyph-orientation-vertical: auto;
+}
+.element:hover
+{   
+    color: #5C1919;
+}
+
+a:hover
+{    
+    transition: ease-in-out all .4s; 
+    -moz-transition: ease-in-out all .4s;
+    -webkit-transition: ease-in-out all .4s;
+    background-color:#f8f9fa;
+    color: #5C1919;
+    text-decoration:none;
+    font-weight: 900;
+    font-size: 25px;
+}
+.element1:hover
+{
+    background: #5c1919;
+    border-radius: 10px;
+    padding: 10px;
+    color: rgb(255, 232, 189);
+}

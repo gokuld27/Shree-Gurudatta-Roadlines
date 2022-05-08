@@ -1,0 +1,20 @@
+
+
+.carousel-caption
+{
+    height: 100px;
+    top: 280px;
+    font-size: 27px;
+}
+
+.carousel-indicators
+{
+    height: 250px;
+    left: -960px;
+}
+
+
+.carousel-control-prev, .carousel-control-next
+{
+    display: none;
+}

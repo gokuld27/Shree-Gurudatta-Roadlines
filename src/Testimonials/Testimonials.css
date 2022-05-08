@@ -1,0 +1,10 @@
+.carousal-control-prev
+{
+    visibility: visible;
+    display: unset;
+}
+
+.shadow
+{
+    box-shadow: #5C1919 0px 54px 55px, #5C1919 0px -12px 30px, #5C1919 0px 4px 6px, #5C1919 0px 12px 13px, #5C1919 0px -3px 5px;
+}
